@@ -1,0 +1,1 @@
+# Typescript + eslint + standardJS template
