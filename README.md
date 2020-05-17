@@ -11,7 +11,6 @@ The goal is to use this template for new projects (react, server or lib) without
 yarn
 
 # check that everything is ok
-
 yarn std
 ```
 
