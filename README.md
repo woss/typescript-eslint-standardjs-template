@@ -10,7 +10,6 @@ The goal is to use this template for new projects (react, server or lib) without
 # instal deps
 yarn
 
-
 # check that everything is ok
 
 yarn std
@@ -22,4 +21,3 @@ yarn std
 - [ ] build flow
 - [ ] tests
 - [ ] webpack
-- [ ]
