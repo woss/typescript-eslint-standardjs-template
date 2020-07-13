@@ -16,7 +16,7 @@
     "eslint-plugin-promise": "4",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-standard": "4",
-    "standard-version": "^8.0.0",
+    "standard-version": "^8.0.1",
     "standardx": "^5.0.0",
     "ts-node-dev": "^1.0.0-pre.44",
     "tsconfigs": "^4.0.2",
